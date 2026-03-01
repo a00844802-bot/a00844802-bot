@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jared
 
-<!--
-**a00844802-bot/a00844802-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Robotics and Digital Systems Engineering Student
+I am an engineering student from **Mexico**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Interests
+* Outside of engineering, I am passionate about **video games** and digital entertainment.
+
+---
+
+### 📊 GitHub Metrics
+![Jared's Stats](https://github-readme-stats.vercel.app/api?username=a00844802-bot&show_icons=true&theme=dark)
